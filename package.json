@@ -24,6 +24,7 @@
 		"grid-tables",
 		"colspan",
 		"gatsby",
+		"gatsby-plugin",
 		"remark",
 		"markdown"
 	],
